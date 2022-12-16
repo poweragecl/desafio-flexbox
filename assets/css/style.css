@@ -202,7 +202,8 @@ body{
 
 
 .chat .instructions-icon img{
-    width: 70%;
+    width: 60%;
     margin-bottom: 24px;
+    opacity: .6;
 }
 
